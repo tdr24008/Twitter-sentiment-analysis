@@ -46,5 +46,3 @@ If you want to regenerate the dataset, use `twitterapi.io` to query X and save r
 - `created_at`
 - `text`
 - `lang`
-
-Save the file as:
